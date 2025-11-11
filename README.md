@@ -1,3 +1,11 @@
+<p align="center">
+<img 
+    src="./assets/cover.png"
+    width="300"
+/>
+</p>
+
+
 # PodCast feito por IA
 
 Este projeto é gerado por tecnologias de inteligência artificial, utilizando de prompts mais trabalhados e complexos.
